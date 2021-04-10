@@ -1,0 +1,52 @@
+
+
+
+.banner {
+    
+    background-image: url(img/banner3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+.sectione-one {
+    background-color: #e9e9f7;
+}
+
+.card {
+
+    border: 0;
+}
+
+.btn-primary {
+    background-color: #131342;
+    border: 0;
+}
+
+.btn-primary:hover {
+    background-color: #0e0e30;
+}
+
+/************SECTION 2**********/
+
+.sectione-two {
+    background-image: url(img/clock-background.jpg);
+    background-size: cover;
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+
+i {
+    font-size: 40px;
+    color: #131342;
+}
